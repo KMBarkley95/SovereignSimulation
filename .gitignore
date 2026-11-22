@@ -71,3 +71,10 @@ Testing/
 .vs/
 *.user
 *.suo
+x64/
+Degug/
+Realse/
+*.tlog
+*.idb
+*ipdb
+*.iobj
