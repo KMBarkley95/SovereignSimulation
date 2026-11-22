@@ -3,10 +3,10 @@
     "revision": 0,
     "rules": [
         {
-            "primary-output": "Sovereig.9fdb123a\\x64\\Debug\\SensorSnapshot.obj",
+            "primary-output": "Sovereig.9fdb123a\\x64\\Debug\\SensorSnapShot.obj",
             "outputs": [
-                "Sovereig.9fdb123a\\x64\\Debug\\SensorSnapshot.h.obj.dt.module.json",
-                "Sovereig.9fdb123a\\x64\\Debug\\SensorSnapshot.h.obj.dt.d.json"
+                "Sovereig.9fdb123a\\x64\\Debug\\SensorSnapShot.h.obj.dt.module.json",
+                "Sovereig.9fdb123a\\x64\\Debug\\SensorSnapShot.h.obj.dt.d.json"
             ],
             "requires": []
         }
